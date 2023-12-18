@@ -1,4 +1,4 @@
-#Entery Page Layout
+#Entery Page Layout <br>
 <img width="649" alt="Screenshot 2023-12-18 172647" src="https://github.com/ravi-rautela/chat-Application-4.0/assets/72198753/dd448c5d-32b1-4bfc-94e1-61004ec681cc">
 <br>
 #Messaging Pages
